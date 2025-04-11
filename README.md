@@ -104,3 +104,4 @@ After the workflow runs successfully:
    - One with the `latest` tag
 
 This approach gives you traceability (via the SHA tags) while maintaining the convenience of a `latest` tag.
+![image](https://github.com/user-attachments/assets/ebb50ca4-6d9d-4525-ab8b-28ba4a8bbca4)

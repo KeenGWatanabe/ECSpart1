@@ -8,7 +8,9 @@ To set up a GitHub workflow that builds and pushes your Docker image to AWS ECR 
 
 First, store your AWS credentials in GitHub Secrets:
 
-1. Go to your GitHub repo → Settings → Secrets → Actions
+1. Go to your GitHub repo
+https://github.com/KeenGWatanabe/ECSpart1
+ → Settings → Secrets → Actions
 2. Add these secrets:
    - `AWS_ACCESS_KEY_ID`: Your AWS access key
    - `AWS_SECRET_ACCESS_KEY`: Your AWS secret key

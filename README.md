@@ -85,6 +85,7 @@ CMD ["npm", "start"]
 ```
 
 ## 4. Push to Main Branch to Trigger Workflow
+![image1](https://github.com/user-attachments/assets/b0f873cb-9fbb-46fa-9294-4b46605395c1)
 
 After committing these changes and pushing to the main branch, the workflow will automatically:
 
@@ -104,4 +105,4 @@ After the workflow runs successfully:
    - One with the `latest` tag
 
 This approach gives you traceability (via the SHA tags) while maintaining the convenience of a `latest` tag.
-![image](https://github.com/user-attachments/assets/ebb50ca4-6d9d-4525-ab8b-28ba4a8bbca4)
+![image0](https://github.com/user-attachments/assets/ebb50ca4-6d9d-4525-ab8b-28ba4a8bbca4)
